@@ -6,14 +6,14 @@ SovTech Challenge
 
 ### `clone the repository`
 
-Server
+`SERVER`
 
 ### `install all packages using npm install`
 
 ### `node server js`
 
 
-Client
+`CLIENT`
 
 ### `cd client`
 
