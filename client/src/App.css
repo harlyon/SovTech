@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
+.App {
+  font-size: 12px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.featured {
+  margin-top: 70px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.box.grid {
+  margin-bottom: 40px;
+  padding-bottom: 30px;
+  text-align: center;
+  border: 1px solid #dedede;
+  background-color: #fff;
+  box-shadow: 0 6px 15px rgba(36, 37, 38, .08);
+}
+
+.box.grid h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  padding-right: 15px;
+  padding-left: 15px;
+  text-transform: capitalize;
+}
+
+.box.grid p {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.box.grid .by {
+  padding: 10px 15px;
+  text-align: left;
+  color: #fff;
+  background-color: #e13b2b;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.featured h4 {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #cacaca;
+}
+
+.featured h3 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.box.grid .tag {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.box.grid h2 a {
+  color: #333;
+}
+
+.brand {
+  padding: 50px 0 40px 0;
+}
+
+.box.grid .tag a {
+  display: inline-block;
+  padding: 3px 15px;
+  color: #666;
+  border: 1px solid #dedede;
+  border-radius: 50px;
+}
+
+.box.grid img {
+  width: 50%;
+  margin-bottom: 30px;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.top {
+  padding: 60px 0;
+  background-color: #f7f7f7;
+}
+
+.box h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding-left: 120px;
+}
+
+.box {
+  padding: 25px;
+  margin-bottom: 12px;
+  background-color: #fff;
+  box-shadow: 0 6px 15px rgba(36, 37, 38, .08);
+}
